@@ -1,7 +1,10 @@
 body{
     background: black;
     font-family: Arial;
+<<<<<<< HEAD
     color: #333;
+=======
+>>>>>>> footer
     text-align: center;
     font-size: 16px;
     margin: 0;
@@ -30,7 +33,7 @@ body{
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px slod #DDD;
+    border: 1px solid #DDD;
     margin: 0 auto;
 }
 #container h1{
@@ -39,4 +42,11 @@ body{
 #post{
     background: white;
     padding: 1em;
+}
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+
 }
